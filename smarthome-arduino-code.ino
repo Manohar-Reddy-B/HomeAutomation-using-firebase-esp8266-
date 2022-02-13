@@ -42,8 +42,8 @@
 #define DATABASE_URL "***************.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
-#define USER_EMAIL "adminiot@gmail.com"
-#define USER_PASSWORD "1234567890"
+#define USER_EMAIL "*******"
+#define USER_PASSWORD "***********"
 
 //Define Firebase Data object
 FirebaseData stream;
