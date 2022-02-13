@@ -36,10 +36,10 @@
 //For the following credentials, see examples/Authentications/SignInAsUser/EmailPassword/EmailPassword.ino
 
 /* 2. Define the API Key */
-#define API_KEY "AIzaSyCMjJllF_lFJ3gPajmp7aTYQJRtrOMMJT4"
+#define API_KEY "***********************"
 
 /* 3. Define the RTDB URL */
-#define DATABASE_URL "smarthome-c2ec3-default-rtdb.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
+#define DATABASE_URL "***************.firebaseio.com" //<databaseName>.firebaseio.com or <databaseName>.<region>.firebasedatabase.app
 
 /* 4. Define the user Email and password that alreadey registerd or added in your project */
 #define USER_EMAIL "adminiot@gmail.com"
